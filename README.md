@@ -1,13 +1,13 @@
-## Magistral Club Penguin's Desktop Client
+# Magistral Club Penguin's Desktop Client
 
-# Features
+## Features
 
 Embedded Flash Player - No need to manually enable Flash every time you want to use the client
 No time bomb - You can play after Jan 12th 2020
 Fullscreen mode - No annoying browser borders
 Cache clearing button - Easily get new features and parties!
 
-# How to build
+## How to build
 
 Install node.js
 Clone the client
