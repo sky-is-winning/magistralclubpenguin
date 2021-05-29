@@ -1,0 +1,1 @@
+Magistral Club Penguin's Desktop Client
