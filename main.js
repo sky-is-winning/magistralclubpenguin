@@ -64,7 +64,7 @@ function createWindow() {
 	mainWindow.setMenu(null);
 	// New URL!
 	Menu.setApplicationMenu(createMenu());
-	mainWindow.loadURL('https://play.magistralcp.xyz/');
+	mainWindow.loadURL('https://play.magistralpenguin.com/');
 
   const clientId = '848126810470088724'; DiscordRPC.register(clientId); const rpc = new DiscordRPC.Client({ transport: 'ipc' }); const startTimestamp = new Date();
   rpc.on('ready', () => {
